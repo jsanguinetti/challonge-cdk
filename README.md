@@ -1,3 +1,6 @@
+# CDK for challonge project
+https://github.com/jsanguinetti/challonge
+
 # Useful commands
 
  * `yarn build`   compile typescript to js
